@@ -17,8 +17,8 @@
 <div>
  <h4> <i> ◼️ GitHub stats: </i> </h4> 
   <a href="https://github.com/renanmainardes">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=renanmainardes&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmainardes&layout=compact&langs_count=7&theme=vue"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=renanmainardes&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmainardes&layout=compact&langs_count=7&theme=buefy"/>
 </div>
   
 

@@ -1,6 +1,6 @@
 <h2> Hello there! </h2>
 
-<h3> I'm a front-end developer from Brazil.</h3>
+<h3> I'm a back-end developer from Brazil.</h3>
 
 
 

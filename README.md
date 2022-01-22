@@ -6,7 +6,7 @@
 
  <h4> <i> ◼️ Technology stack:</i> </h4>  
 
-HTML5 | CSS3 | JavaScript | Java | Spring Boot | VBA
+Java | Spring Boot | VBA | HTML5 | CSS3 | JavaScript 
   
   ##
 

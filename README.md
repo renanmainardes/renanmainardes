@@ -1,5 +1,5 @@
 
- # **Technology stack**
+ # **technology stack**
 *Java | Spring Boot | VBA | HTML5 | CSS3 | JavaScript*
    
   <a href="https://github.com/renanmainardes">  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmainardes&layout=compact&langs_count=7&theme=buefy"/>
@@ -9,7 +9,7 @@
    
    
   
-  # Social media
+  # social media
   
 
   <div> 

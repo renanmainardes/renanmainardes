@@ -2,7 +2,7 @@
 
 
 
-## *Stack*
+## Stack
 
    
   <a href="https://github.com/renanmainardes">  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmainardes&layout=compact&langs_count=7&theme=buefy"/>
@@ -16,7 +16,7 @@
    
    
    
-  ## *Social media*
+  ## Social media
   
 
   <div> 

@@ -1,5 +1,8 @@
+<img src="https://github.com/renanmainardes/renanmainardes/blob/972408e42d2899ed44f1edea7edd87629d27c2ab/Capa%20-%20GitHub.png">
 
- ## *Stack*
+
+
+## *Stack*
 
    
   <a href="https://github.com/renanmainardes">  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmainardes&layout=compact&langs_count=7&theme=buefy"/>

@@ -1,4 +1,4 @@
-<img src="https://github.com/renanmainardes/renanmainardes/blob/7ec9b1e3b4f44238857b09c4b1bca62b8ff76648/Capa%20-%20GitHub.png">
+<img src="https://github.com/renanmainardes/renanmainardes/blob/b59415f4a8bd521ec4b7195488155d7ad694123a/new%20cover%20version.png">
 
 
 

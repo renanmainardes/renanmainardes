@@ -1,4 +1,4 @@
-<img src="https://github.com/renanmainardes/renanmainardes/blob/475f7faf955e8a87dd4cb489c74094c81ab14cb9/Capa%20-%20LinkedIn.png">
+
 
 
 
